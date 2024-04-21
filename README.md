@@ -4,7 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact me through my email - prince16us@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm a writer and everyone is photographer.
+- 
 
 <!---
 utkarshsrivastava16/utkarshsrivastava16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
